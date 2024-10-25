@@ -7,9 +7,6 @@
 
 ![Matheus Vidal GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus404&show_icons=true&theme=radical)
 
-
-## 🛠️ Tecnologias e Ferramentas
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">

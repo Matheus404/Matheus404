@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Vidal 🖐️
 
 <p>
-  Sou um desenvolvedor back-end altamente experiente com sólidos conhecimentos em Java e Spring Boot. Minha paixão está em criar soluções robustas e escaláveis que impulsionam a eficiência e a performance dos sistemas.
+  Sou um desenvolvedor back-end experiente com sólidos conhecimentos em Java e Spring Boot. Minha paixão está em criar soluções robustas e escaláveis que impulsionam a eficiência e a performance dos sistemas.
 </p>
 <br>
 

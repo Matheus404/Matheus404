@@ -8,9 +8,7 @@
 ![Matheus Vidal GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus404&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso no meu dia
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
